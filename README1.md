@@ -1,3 +1,3 @@
 # code_merge1
-facebook.com
-instagram
+www.facebook.com
+www.instagram.com
